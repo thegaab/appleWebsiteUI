@@ -170,17 +170,3 @@ main .iphone-section .text-wrapper{
     align-items: center;
     margin-top: 51px;
 }
-.double-section {
-    display: flex;
-    justify-content: space-between;
-}
-
-.double-section .text-wrapper,
-.double-section img {
-    flex: 1;
-}
-
-.double-section img {
-    max-width: 100%;
-    height: auto;
-}
