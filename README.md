@@ -8,7 +8,7 @@
   
   ## Clone of the apple website interface using simple technologies how html and CSS.
   
-    <h1 align="center"> <a href="#">Check the aplication<a> </h1>
+<h1 align="center"> <a href="#">Check the aplication<a> </h1>
   <p align="center">
     <img src="https://media.discordapp.net/attachments/955884943383343215/1201169056816955402/image.png?ex=65c8d6db&is=65b661db&hm=7cfdfed03b212fde2708ec16ddef013e6c6ed347a5b4396ad91281e21920e6a6&=&format=webp&quality=lossless&width=694&height=331"width="900" />
     <img src="https://media.discordapp.net/attachments/955884943383343215/1201169057232195734/image.png?ex=65c8d6db&is=65b661db&hm=fc5d3dc941000da78c3cd26e00f948a27c94241fb5f7c1dd3af8e6771b67dfa3&=&format=webp&quality=lossless&width=695&height=331" width="900" />
