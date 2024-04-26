@@ -1,5 +1,9 @@
 # Apple Website UI Clone
 
+![Project Preview](./public/assets/preview.jpeg)
+
+Replace `./path/to/your/image.png` with the actual path to your image file. This will display an image at the top of your README, giving viewers a preview of the project.
+
 This project is a simple clone of the Apple website, built using only JavaScript and CSS.
 
 ## Installation
